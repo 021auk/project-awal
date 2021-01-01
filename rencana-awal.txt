@@ -1,0 +1,2 @@
+1. memahami dasar dasar yang dijelaskan oleh kamerad ahmed
+2. belajar memahami dasar js
